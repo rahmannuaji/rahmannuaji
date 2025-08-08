@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Everyone+👋;My+Name+is+Rahmannuaji+Satuhu....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Everyone+👋;I'm+Rahmannuaji....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -11,10 +11,10 @@
 
 <br>
 <p align="center">
-  Hi, I'm Rahmannuaji Satuhu, Data Enthusiast From Indonesia
+  Hi, My name is Rahmannuaji Satuhu, Data Enthusiast From Indonesia
   <br>
   <br>
-  🎓 I graduated from Sepuluh Nopember Institute of Technolog, Department of Statistics (Bachelor Degree)
+  🎓 I graduated from Sepuluh Nopember Institute of Technology, Department of Statistics (Bachelor Degree)
   <br>
   💻 I love learn anythings about what i want to do
   <br>
@@ -23,16 +23,13 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
+<p align="center">
+  <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rahmannuaji&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width="390" src="https://github-readme-stats.vercel.app/api?username=rahmannuaji&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmannuaji&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmannuaji&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
