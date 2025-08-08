@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Everyone+👋;I'm+Rahmannuaji....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Everyone+👋;I'm+Rahmannuaji;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -21,16 +21,19 @@
   📫 How to reach me: <a href="mailto: rahmannuaji@gmail.com">rahmannuaji@gmail.com</a>
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
-  <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: stretch;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" width="390" src="https://github-readme-stats.vercel.app/api?username=rahmannuaji&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmannuaji&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
+  <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: start;">
+    <div style="width: 390px; height: 200px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img style="width: 100%; height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=rahmannuaji&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      </a>
+    </div>
+    <div style="width: 330px; height: 200px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img style="width: 100%; height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmannuaji&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      </a>
+    </div>
   </div>
   <br>
 
