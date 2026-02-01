@@ -56,28 +56,6 @@
 
 <br>
 
-<h3 align="center">📈 GitHub Stats</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=rahmannuaji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahmannuaji's GitHub stats" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img width="400" src="https://streak-stats.demolab.com/?user=rahmannuaji&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" style="padding: 10px;">
-        <img width="820" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmannuaji&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmannuaji&theme=tokyonight&bg_color=1a1b27&hide_border=true&area=true" width="94%" alt="Activity Graph" />
 </div>
